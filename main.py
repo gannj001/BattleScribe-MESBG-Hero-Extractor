@@ -3,6 +3,9 @@ import shutil
 import json, json_fix
 from bs4 import BeautifulSoup
 
+# IMPORTANT!!!
+# Replace <name> with username
+
 # notes:
 # get roster name from catalogue node, name attribute
 
@@ -15,7 +18,9 @@ from bs4 import BeautifulSoup
 #   check masterRoster for hero with same name
 #   if name is found, add the hero
 
-SOURCE_DIR = "C:\\Users\\johng\\BattleScribe\\data\\Middle-Earth Strategy Battle Game"
+
+
+SOURCE_DIR = "C:\\Users\\<name>\\BattleScribe\\data\\Middle-Earth Strategy Battle Game"
 TARGET_DIR = os.path.join(os.getcwd(), "data")
 
 class Hero():
