@@ -3,9 +3,6 @@ import shutil
 import json, json_fix
 from bs4 import BeautifulSoup
 
-# IMPORTANT!!!
-# Replace <name> with username
-
 # notes:
 # get roster name from catalogue node, name attribute
 
@@ -20,7 +17,7 @@ from bs4 import BeautifulSoup
 
 
 
-SOURCE_DIR = "C:\\Users\\<name>\\BattleScribe\\data\\Middle-Earth Strategy Battle Game"
+SOURCE_DIR = os.path.join("C:\\Users", os.environ.get("USERNAME"), "BattleScribe\\data\\Middle-Earth Strategy Battle Game")
 TARGET_DIR = os.path.join(os.getcwd(), "data")
 
 class Hero():
