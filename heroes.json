@@ -1,0 +1,2990 @@
+[
+    {
+        "heroes": {
+            "Angmar Orc Captain": {
+                "fate": "1",
+                "might": "2",
+                "name": "Angmar Orc Captain",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Angmar Orc Shaman": {
+                "fate": "1",
+                "might": "1",
+                "name": "Angmar Orc Shaman",
+                "will": "3",
+                "wounds": "2"
+            },
+            "Barrow-wight": {
+                "fate": "0",
+                "might": "0",
+                "name": "Barrow-wight",
+                "will": "5",
+                "wounds": "2"
+            },
+            "Buhrd\u00fbr, Troll Chieftain": {
+                "fate": "1",
+                "might": "3",
+                "name": "Buhrd\u00fbr, Troll Chieftain",
+                "will": "1",
+                "wounds": "3"
+            },
+            "Golfimbul, Orc Chieftain": {
+                "fate": 0,
+                "might": 0,
+                "name": "Golfimbul, Orc Chieftain",
+                "will": 0,
+                "wounds": 0
+            },
+            "G\u00fblavhar, the Terror of Angmar": {
+                "fate": "0",
+                "might": "3",
+                "name": "G\u00fblavhar, the Terror of Angmar",
+                "will": "3",
+                "wounds": "4"
+            },
+            "Shade": {
+                "fate": "0",
+                "might": "0",
+                "name": "Shade",
+                "will": "8",
+                "wounds": "3"
+            },
+            "The Dwimmerlaik": {
+                "fate": "2",
+                "might": "0",
+                "name": "The Dwimmerlaik",
+                "will": "16",
+                "wounds": "1"
+            },
+            "The Tainted": {
+                "fate": "2",
+                "might": "2",
+                "name": "The Tainted",
+                "will": "14",
+                "wounds": "1"
+            },
+            "The Witch-king of Angmar": {
+                "fate": "0",
+                "might": "0",
+                "name": "The Witch-king of Angmar",
+                "will": "10",
+                "wounds": "1"
+            },
+            "Wild Warg Chieftain": {
+                "fate": "1",
+                "might": "2",
+                "name": "Wild Warg Chieftain",
+                "will": "2",
+                "wounds": "3"
+            }
+        },
+        "name": "Angmar"
+    },
+    {
+        "heroes": {
+            "Alfrid the Councilor": {
+                "fate": "1",
+                "might": "0",
+                "name": "Alfrid the Councilor",
+                "will": "3",
+                "wounds": "1"
+            },
+            "Bain, Son of Bard": {
+                "fate": "2",
+                "might": "1",
+                "name": "Bain, Son of Bard",
+                "will": "3",
+                "wounds": "2"
+            },
+            "Bard the Bowman": {
+                "fate": "3",
+                "might": "3",
+                "name": "Bard the Bowman",
+                "will": "3",
+                "wounds": "3"
+            },
+            "Braga, Captain of the Guard": {
+                "fate": "1",
+                "might": "3",
+                "name": "Braga, Captain of the Guard",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Lake-town Guard Captain": {
+                "fate": "1",
+                "might": "2",
+                "name": "Lake-town Guard Captain",
+                "will": "1",
+                "wounds": "2"
+            },
+            "The Master of Lake-town": {
+                "fate": "2",
+                "might": "2",
+                "name": "The Master of Lake-town",
+                "will": "2",
+                "wounds": "2"
+            }
+        },
+        "name": "Army of Lake-town"
+    },
+    {
+        "heroes": {
+            "Captain of Erebor": {
+                "fate": "1",
+                "might": "2",
+                "name": "Captain of Erebor",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Grim Hammer Captain": {
+                "fate": "1",
+                "might": "2",
+                "name": "Grim Hammer Captain",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Thr\u00e1in": {
+                "fate": "3",
+                "might": "3",
+                "name": "Thr\u00e1in",
+                "will": "3",
+                "wounds": "3"
+            },
+            "Thr\u00f3r": {
+                "fate": "1",
+                "might": "3",
+                "name": "Thr\u00f3r",
+                "will": "3",
+                "wounds": "3"
+            },
+            "Young Balin the Dwarf": {
+                "fate": "2",
+                "might": "1",
+                "name": "Young Balin the Dwarf",
+                "will": "3",
+                "wounds": "2"
+            },
+            "Young Dwalin the Dwarf": {
+                "fate": "2",
+                "might": "2",
+                "name": "Young Dwalin the Dwarf",
+                "will": "2",
+                "wounds": "2"
+            },
+            "Young Thorin Oakenshield": {
+                "fate": "3",
+                "might": "3",
+                "name": "Young Thorin Oakenshield",
+                "will": "3",
+                "wounds": "3"
+            }
+        },
+        "name": "Army of Thr\u00f3r"
+    },
+    {
+        "heroes": {
+            "Arvedui, Last King of Arnor": {
+                "fate": "1",
+                "might": "3",
+                "name": "Arvedui, Last King of Arnor",
+                "will": "2",
+                "wounds": "3"
+            },
+            "Captain of Arnor": {
+                "fate": "1",
+                "might": "2",
+                "name": "Captain of Arnor",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Malbeth the Seer": {
+                "fate": "1",
+                "might": "1",
+                "name": "Malbeth the Seer",
+                "will": "2",
+                "wounds": "2"
+            }
+        },
+        "name": "Arnor"
+    },
+    {
+        "heroes": {
+            "Azog": {
+                "fate": "1",
+                "might": "3",
+                "name": "Azog",
+                "will": "3",
+                "wounds": "3"
+            },
+            "Bolg": {
+                "fate": "1",
+                "might": "3",
+                "name": "Bolg",
+                "will": "3",
+                "wounds": "3"
+            },
+            "Fimbul the Hunter": {
+                "fate": "1",
+                "might": "3",
+                "name": "Fimbul the Hunter",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Hunter Orc Captain": {
+                "fate": "1",
+                "might": "2",
+                "name": "Hunter Orc Captain",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Narzug": {
+                "fate": "1",
+                "might": "3",
+                "name": "Narzug",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Yazneg": {
+                "fate": "1",
+                "might": "3",
+                "name": "Yazneg",
+                "will": "1",
+                "wounds": "2"
+            }
+        },
+        "name": "Azog's Hunters"
+    },
+    {
+        "heroes": {
+            "Azog": {
+                "fate": "1",
+                "might": "3",
+                "name": "Azog",
+                "will": "3",
+                "wounds": "3"
+            },
+            "Bolg": {
+                "fate": "1",
+                "might": "3",
+                "name": "Bolg",
+                "will": "3",
+                "wounds": "3"
+            },
+            "Goblin Mercenary Captain": {
+                "fate": "1",
+                "might": "2",
+                "name": "Goblin Mercenary Captain",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Gundabad Orc Captain": {
+                "fate": "1",
+                "might": "2",
+                "name": "Gundabad Orc Captain",
+                "will": "1",
+                "wounds": "2"
+            }
+        },
+        "name": "Azog's Legion"
+    },
+    {
+        "heroes": {
+            "Black N\u00famen\u00f3rean Marshal": {
+                "fate": "1",
+                "might": "2",
+                "name": "Black N\u00famen\u00f3rean Marshal",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Mordor Troll Chieftain": {
+                "fate": "1",
+                "might": "2",
+                "name": "Mordor Troll Chieftain",
+                "will": "1",
+                "wounds": "3"
+            },
+            "Orc Captain": {
+                "fate": "1",
+                "might": "2",
+                "name": "Orc Captain",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Orc Drummer": {
+                "fate": "1",
+                "might": "0",
+                "name": "Orc Drummer",
+                "will": "0",
+                "wounds": "1"
+            },
+            "Orc Shaman": {
+                "fate": "1",
+                "might": "1",
+                "name": "Orc Shaman",
+                "will": "3",
+                "wounds": "2"
+            },
+            "Orc Taskmaster": {
+                "fate": "1",
+                "might": "1",
+                "name": "Orc Taskmaster",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Ringwraith": {
+                "fate": "0",
+                "might": "0",
+                "name": "Ringwraith",
+                "will": "7",
+                "wounds": "1"
+            },
+            "Shelob": {
+                "fate": "0",
+                "might": "0",
+                "name": "Shelob",
+                "will": "6",
+                "wounds": "6"
+            },
+            "The Dark Lord Sauron": {
+                "fate": "**",
+                "might": "3",
+                "name": "The Dark Lord Sauron",
+                "will": "6*",
+                "wounds": "5"
+            },
+            "The Witch-king of Angmar": {
+                "fate": "0",
+                "might": "0",
+                "name": "The Witch-king of Angmar",
+                "will": "10",
+                "wounds": "1"
+            }
+        },
+        "name": "Barad-D\u00fbr"
+    },
+    {
+        "heroes": {
+            "Beorn": {
+                "fate": "3",
+                "might": "3",
+                "name": "Beorn",
+                "will": "3",
+                "wounds": "3"
+            },
+            "Grimbeorn": {
+                "fate": "3",
+                "might": "3",
+                "name": "Grimbeorn",
+                "will": "3",
+                "wounds": "3"
+            }
+        },
+        "name": "Beornings"
+    },
+    {
+        "heroes": {
+            "Black N\u00famen\u00f3rean Marshal": {
+                "fate": "1",
+                "might": "2",
+                "name": "Black N\u00famen\u00f3rean Marshal",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Corsair Bo'sun": {
+                "fate": "1",
+                "might": "1",
+                "name": "Corsair Bo'sun",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Corsair Captain": {
+                "fate": "1",
+                "might": "2",
+                "name": "Corsair Captain",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Dalamyr, Fleetmaster of Umbar": {
+                "fate": "3",
+                "might": "2",
+                "name": "Dalamyr, Fleetmaster of Umbar",
+                "will": "2",
+                "wounds": "2"
+            },
+            "Delgamar, Gatemaster of Umbar": {
+                "fate": "1",
+                "might": "3",
+                "name": "Delgamar, Gatemaster of Umbar",
+                "will": "1",
+                "wounds": "2"
+            },
+            "H\u00e2sharin": {
+                "fate": "3",
+                "might": "1",
+                "name": "H\u00e2sharin",
+                "will": "1",
+                "wounds": "2"
+            },
+            "The Knight of Umbar": {
+                "fate": "2",
+                "might": "2",
+                "name": "The Knight of Umbar",
+                "will": "12",
+                "wounds": "1"
+            }
+        },
+        "name": "Corsairs of Umbar"
+    },
+    {
+        "heroes": {
+            "The Spider Queen": {
+                "fate": "0",
+                "might": "3",
+                "name": "The Spider Queen",
+                "will": "3",
+                "wounds": "3"
+            }
+        },
+        "name": "Dark Denezins of Mirkwood"
+    },
+    {
+        "heroes": {
+            "Azog": {
+                "fate": "1",
+                "might": "3",
+                "name": "Azog",
+                "will": "3",
+                "wounds": "3"
+            },
+            "Castellan of Dol Guldur": {
+                "fate": "0",
+                "might": "0",
+                "name": "Castellan of Dol Guldur",
+                "will": "12",
+                "wounds": "1"
+            },
+            "Gundabad Orc Captain": {
+                "fate": "1",
+                "might": "2",
+                "name": "Gundabad Orc Captain",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Hunter Orc Captain": {
+                "fate": "1",
+                "might": "2",
+                "name": "Hunter Orc Captain",
+                "will": "1",
+                "wounds": "2"
+            },
+            "The Keeper of the Dungeons": {
+                "fate": "0",
+                "might": "3",
+                "name": "The Keeper of the Dungeons",
+                "will": "3",
+                "wounds": "2"
+            },
+            "The Nazg\u00fbl of Dol Guldur": {
+                "fate": "0",
+                "might": "2",
+                "name": "The Nazg\u00fbl of Dol Guldur",
+                "will": "1",
+                "wounds": "1"
+            },
+            "The Necromancer of Dol Guldur": {
+                "fate": "*",
+                "might": "3",
+                "name": "The Necromancer of Dol Guldur",
+                "will": "25",
+                "wounds": "1"
+            },
+            "Thr\u00e1in the Broken": {
+                "fate": "0",
+                "might": "0",
+                "name": "Thr\u00e1in the Broken",
+                "will": "0",
+                "wounds": "2"
+            }
+        },
+        "name": "Dark Powers of Dol Guldur"
+    },
+    {
+        "heroes": {
+            "Smaug": {
+                "fate": "0",
+                "might": "3",
+                "name": "Smaug",
+                "will": "6*",
+                "wounds": "20"
+            }
+        },
+        "name": "Desolator of the North"
+    },
+    {
+        "heroes": {
+            "Balin the Dwarf, Champion of Erebor": {
+                "fate": "2",
+                "might": "1",
+                "name": "Balin the Dwarf, Champion of Erebor",
+                "will": "3",
+                "wounds": "2"
+            },
+            "Bifur the Dwarf, Champion of Erebor": {
+                "fate": "1",
+                "might": "2",
+                "name": "Bifur the Dwarf, Champion of Erebor",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Bofur the Dwarf, Champion of Erebor": {
+                "fate": "1",
+                "might": "2",
+                "name": "Bofur the Dwarf, Champion of Erebor",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Bombur the Dwarf, Champion of Erebor": {
+                "fate": "1",
+                "might": "2",
+                "name": "Bombur the Dwarf, Champion of Erebor",
+                "will": "1",
+                "wounds": "3"
+            },
+            "Dori the Dwarf, Champion of Erebor": {
+                "fate": "1",
+                "might": "2",
+                "name": "Dori the Dwarf, Champion of Erebor",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Dwalin the Dwarf, Champion of Erebor": {
+                "fate": "2",
+                "might": "3",
+                "name": "Dwalin the Dwarf, Champion of Erebor",
+                "will": "2",
+                "wounds": "2"
+            },
+            "D\u00e1in Ironfoot, King Under the Mountain": {
+                "fate": "1",
+                "might": "3",
+                "name": "D\u00e1in Ironfoot, King Under the Mountain",
+                "will": "3",
+                "wounds": "3"
+            },
+            "D\u00e1in Ironfoot, Lord of the Iron Hills": {
+                "fate": "3",
+                "might": "3",
+                "name": "D\u00e1in Ironfoot, Lord of the Iron Hills",
+                "will": "3",
+                "wounds": "3"
+            },
+            "F\u00edli the Dwarf, Champion of Erebor": {
+                "fate": "1",
+                "might": "3",
+                "name": "F\u00edli the Dwarf, Champion of Erebor",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Gl\u00f3in the Dwarf, Champion of Erebor": {
+                "fate": "1",
+                "might": "3",
+                "name": "Gl\u00f3in the Dwarf, Champion of Erebor",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Iron Hills Captain": {
+                "fate": "1",
+                "might": "2",
+                "name": "Iron Hills Captain",
+                "will": "1",
+                "wounds": "2"
+            },
+            "K\u00edli the Dwarf, Champion of Erebor": {
+                "fate": "1",
+                "might": "3",
+                "name": "K\u00edli the Dwarf, Champion of Erebor",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Nori the Dwarf, Champion of Erebor": {
+                "fate": "1",
+                "might": "2",
+                "name": "Nori the Dwarf, Champion of Erebor",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Ori the Dwarf, Champion of Erebor": {
+                "fate": "1",
+                "might": "1",
+                "name": "Ori the Dwarf, Champion of Erebor",
+                "will": "3",
+                "wounds": "2"
+            },
+            "Thorin III Stonehelm": {
+                "fate": "3",
+                "might": "3",
+                "name": "Thorin III Stonehelm",
+                "will": "3",
+                "wounds": "2"
+            },
+            "Thorin Oakenshield, King Under the Mountain": {
+                "fate": "1",
+                "might": "3",
+                "name": "Thorin Oakenshield, King Under the Mountain",
+                "will": "3",
+                "wounds": "3"
+            },
+            "\u00d3in the Dwarf, Champion of Erebor": {
+                "fate": "1",
+                "might": "1",
+                "name": "\u00d3in the Dwarf, Champion of Erebor",
+                "will": "4",
+                "wounds": "2"
+            }
+        },
+        "name": "Erebor Reclaimed"
+    },
+    {
+        "heroes": {
+            "Beechbone": {
+                "fate": "1",
+                "might": "3",
+                "name": "Beechbone",
+                "will": "1",
+                "wounds": "3"
+            },
+            "Quickbeam": {
+                "fate": 0,
+                "might": 0,
+                "name": "Quickbeam",
+                "will": 0,
+                "wounds": 0
+            },
+            "Treebeard": {
+                "fate": "3",
+                "might": "3",
+                "name": "Treebeard",
+                "will": "6",
+                "wounds": "3"
+            }
+        },
+        "name": "Fangorn"
+    },
+    {
+        "heroes": {
+            "Mah\u00fbd King": {
+                "fate": "1",
+                "might": "2",
+                "name": "Mah\u00fbd King",
+                "will": "2",
+                "wounds": "2"
+            },
+            "Mah\u00fbd Tribesmaster": {
+                "fate": "1",
+                "might": "2",
+                "name": "Mah\u00fbd Tribesmaster",
+                "will": "1",
+                "wounds": "2"
+            },
+            "The M\u00fbmak War Leader": {
+                "fate": "2",
+                "might": "3",
+                "name": "The M\u00fbmak War Leader",
+                "will": "2",
+                "wounds": "3"
+            }
+        },
+        "name": "Far Harad"
+    },
+    {
+        "heroes": {
+            "Bard II, Prince of Dale": {
+                "fate": "2",
+                "might": "3",
+                "name": "Bard II, Prince of Dale",
+                "will": "2",
+                "wounds": "2"
+            },
+            "Brand, King of Dale": {
+                "fate": "1",
+                "might": "3",
+                "name": "Brand, King of Dale",
+                "will": "3",
+                "wounds": "3"
+            },
+            "Captain of Dale": {
+                "fate": "1",
+                "might": "2",
+                "name": "Captain of Dale",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Engineer Captain": {
+                "fate": "1",
+                "might": "2",
+                "name": "Engineer Captain",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Girion, Lord of Dale": {
+                "fate": "1",
+                "might": "3",
+                "name": "Girion, Lord of Dale",
+                "will": "2",
+                "wounds": "2"
+            },
+            "Siege Veteran": {
+                "fate": "1",
+                "might": "1",
+                "name": "Siege Veteran",
+                "will": "1",
+                "wounds": "1"
+            }
+        },
+        "name": "Garrison of Dale"
+    },
+    {
+        "heroes": {
+            "Goblin Captain": {
+                "fate": "1",
+                "might": "2",
+                "name": "Goblin Captain",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Goblin Mercenary Captain": {
+                "fate": "1",
+                "might": "2",
+                "name": "Goblin Mercenary Captain",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Gollum": {
+                "fate": "1",
+                "might": "1",
+                "name": "Gollum",
+                "will": "0",
+                "wounds": "2"
+            },
+            "Grinnah": {
+                "fate": "1",
+                "might": "3",
+                "name": "Grinnah",
+                "will": "1",
+                "wounds": "2"
+            },
+            "The Goblin King": {
+                "fate": "1",
+                "might": "3",
+                "name": "The Goblin King",
+                "will": "2",
+                "wounds": "3"
+            },
+            "The Goblin Scribe": {
+                "fate": "1",
+                "might": "0",
+                "name": "The Goblin Scribe",
+                "will": "1",
+                "wounds": "1"
+            }
+        },
+        "name": "Goblin-town"
+    },
+    {
+        "heroes": {
+            "Legolas Greenleaf, Prince of Mirkwood": {
+                "fate": "3",
+                "might": "3",
+                "name": "Legolas Greenleaf, Prince of Mirkwood",
+                "will": "2",
+                "wounds": "2"
+            },
+            "Mirkwood Captain": {
+                "fate": "1",
+                "might": "2",
+                "name": "Mirkwood Captain",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Mirkwood Ranger Captain": {
+                "fate": "1",
+                "might": "2",
+                "name": "Mirkwood Ranger Captain",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Palace Guard Captain": {
+                "fate": "1",
+                "might": "2",
+                "name": "Palace Guard Captain",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Tauriel": {
+                "fate": "3",
+                "might": "3",
+                "name": "Tauriel",
+                "will": "2",
+                "wounds": "2"
+            },
+            "Thranduil, King of the Woodland Realm": {
+                "fate": "3",
+                "might": "3",
+                "name": "Thranduil, King of the Woodland Realm",
+                "will": "3",
+                "wounds": "3"
+            }
+        },
+        "name": "Halls of Thranduil"
+    },
+    {
+        "heroes": {
+            "Dunlending Chieftain": {
+                "fate": "1",
+                "might": "2",
+                "name": "Dunlending Chieftain",
+                "will": "2",
+                "wounds": "2"
+            },
+            "Fr\u00edda Tallspear": {
+                "fate": "1",
+                "might": "3",
+                "name": "Fr\u00edda Tallspear",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Gor\u00fblf Ironskin": {
+                "fate": "1",
+                "might": "3",
+                "name": "Gor\u00fblf Ironskin",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Grishn\u00e1kh, Orc Captain": {
+                "fate": "1",
+                "might": "3",
+                "name": "Grishn\u00e1kh, Orc Captain",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Gr\u00edma Wormtongue": {
+                "fate": "0",
+                "might": "0",
+                "name": "Gr\u00edma Wormtongue",
+                "will": "0",
+                "wounds": "1"
+            },
+            "Lurtz": {
+                "fate": "1",
+                "might": "3",
+                "name": "Lurtz",
+                "will": "1",
+                "wounds": "3"
+            },
+            "Mauh\u00far": {
+                "fate": "1",
+                "might": "2",
+                "name": "Mauh\u00far",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Orc Captain": {
+                "fate": "1",
+                "might": "2",
+                "name": "Orc Captain",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Orc Shaman": {
+                "fate": "1",
+                "might": "1",
+                "name": "Orc Shaman",
+                "will": "3",
+                "wounds": "2"
+            },
+            "Saruman": {
+                "fate": "3",
+                "might": "3",
+                "name": "Saruman",
+                "will": "6*",
+                "wounds": "3"
+            },
+            "Sharku": {
+                "fate": "1",
+                "might": "3",
+                "name": "Sharku",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Snaga, Orc Captain": {
+                "fate": 0,
+                "might": 0,
+                "name": "Snaga, Orc Captain",
+                "will": 0,
+                "wounds": 0
+            },
+            "The Wild Man Oathmaker": {
+                "fate": "1",
+                "might": "3",
+                "name": "The Wild Man Oathmaker",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Thrydan Wolfsbane": {
+                "fate": "2",
+                "might": "3",
+                "name": "Thrydan Wolfsbane",
+                "will": "2",
+                "wounds": "2"
+            },
+            "Ugl\u00fak": {
+                "fate": "1",
+                "might": "3",
+                "name": "Ugl\u00fak",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Uruk-hai Captain": {
+                "fate": "1",
+                "might": "2",
+                "name": "Uruk-hai Captain",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Uruk-hai Drummer": {
+                "fate": "1",
+                "might": "0",
+                "name": "Uruk-hai Drummer",
+                "will": "0",
+                "wounds": "1"
+            },
+            "Uruk-hai Engineer Captain": {
+                "fate": "1",
+                "might": "2",
+                "name": "Uruk-hai Engineer Captain",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Uruk-hai Leader": {
+                "fate": "1",
+                "might": "2",
+                "name": "Uruk-hai Leader",
+                "will": "1",
+                "wounds": "3"
+            },
+            "Uruk-hai Scout Captain": {
+                "fate": "1",
+                "might": "2",
+                "name": "Uruk-hai Scout Captain",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Uruk-hai Seige Veteran": {
+                "fate": "1",
+                "might": "1",
+                "name": "Uruk-hai Seige Veteran",
+                "will": "1",
+                "wounds": "1"
+            },
+            "Uruk-hai Shaman": {
+                "fate": "1",
+                "might": "1",
+                "name": "Uruk-hai Shaman",
+                "will": "3",
+                "wounds": "2"
+            },
+            "Vrask\u00fb": {
+                "fate": "1",
+                "might": "3",
+                "name": "Vrask\u00fb",
+                "will": "1",
+                "wounds": "2"
+            }
+        },
+        "name": "Isengard"
+    },
+    {
+        "heroes": {
+            "Celeborn": {
+                "fate": "3",
+                "might": "3",
+                "name": "Celeborn",
+                "will": "3",
+                "wounds": "3"
+            },
+            "Galadhrim Captain": {
+                "fate": "1",
+                "might": "2",
+                "name": "Galadhrim Captain",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Galadhrim Stormcaller": {
+                "fate": "1",
+                "might": "1",
+                "name": "Galadhrim Stormcaller",
+                "will": "3",
+                "wounds": "2"
+            },
+            "Galadriel": {
+                "fate": "3",
+                "might": "3",
+                "name": "Galadriel",
+                "will": "6*",
+                "wounds": "3"
+            },
+            "Haldir": {
+                "fate": "1",
+                "might": "3",
+                "name": "Haldir",
+                "will": "1",
+                "wounds": "2"
+            },
+            "R\u00famil": {
+                "fate": "1",
+                "might": "3",
+                "name": "R\u00famil",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Wood Elf Captain": {
+                "fate": "1",
+                "might": "2",
+                "name": "Wood Elf Captain",
+                "will": "1",
+                "wounds": "2"
+            }
+        },
+        "name": "Lothl\u00f3rien"
+    },
+    {
+        "heroes": {
+            "Anborn, Ranger of Ithilien": {
+                "fate": "1",
+                "might": "1",
+                "name": "Anborn, Ranger of Ithilien",
+                "will": "1",
+                "wounds": "1"
+            },
+            "Aragorn, King Elessar": {
+                "fate": "3",
+                "might": "3*",
+                "name": "Aragorn, King Elessar",
+                "will": "3",
+                "wounds": "3"
+            },
+            "Beregond, Guard of the Citadel": {
+                "fate": "1",
+                "might": "1",
+                "name": "Beregond, Guard of the Citadel",
+                "will": "1",
+                "wounds": "1"
+            },
+            "Boromir, Captain of the White Tower": {
+                "fate": "3",
+                "might": "6",
+                "name": "Boromir, Captain of the White Tower",
+                "will": "3",
+                "wounds": "3"
+            },
+            "Captain of Dol Amroth": {
+                "fate": "1",
+                "might": "2",
+                "name": "Captain of Dol Amroth",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Captain of Minas Tirith": {
+                "fate": "1",
+                "might": "2",
+                "name": "Captain of Minas Tirith",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Cirion, Lieutenant of Amon Barad": {
+                "fate": "1",
+                "might": "3",
+                "name": "Cirion, Lieutenant of Amon Barad",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Citadel Guard": {
+                "fate": "0",
+                "might": "0",
+                "name": "Citadel Guard",
+                "will": "0",
+                "wounds": "1"
+            },
+            "Damrod, Ranger of Ithilien": {
+                "fate": "1",
+                "might": "1",
+                "name": "Damrod, Ranger of Ithilien",
+                "will": "1",
+                "wounds": "1"
+            },
+            "Denethor, Steward of Gondor": {
+                "fate": "0",
+                "might": "0",
+                "name": "Denethor, Steward of Gondor",
+                "will": "3",
+                "wounds": "2"
+            },
+            "Faramir, Captain of Gondor": {
+                "fate": "2",
+                "might": "3",
+                "name": "Faramir, Captain of Gondor",
+                "will": "3",
+                "wounds": "2"
+            },
+            "Frodo Baggins": {
+                "fate": "3",
+                "might": "2",
+                "name": "Frodo Baggins",
+                "will": "3",
+                "wounds": "2"
+            },
+            "Gandalf the White": {
+                "fate": "3",
+                "might": "3",
+                "name": "Gandalf the White",
+                "will": "6*",
+                "wounds": "3"
+            },
+            "Gimli Son of Gl\u00f3in": {
+                "fate": "2",
+                "might": "3",
+                "name": "Gimli Son of Gl\u00f3in",
+                "will": "2",
+                "wounds": "2"
+            },
+            "Ingold, Warden of the Rammas Echor": {
+                "fate": "1",
+                "might": "3",
+                "name": "Ingold, Warden of the Rammas Echor",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Irolas, Captain of the Guard": {
+                "fate": "1",
+                "might": "3",
+                "name": "Irolas, Captain of the Guard",
+                "will": "1",
+                "wounds": "2"
+            },
+            "King of Men": {
+                "fate": "1",
+                "might": "2",
+                "name": "King of Men",
+                "will": "2",
+                "wounds": "2"
+            },
+            "Knight of the White Tower": {
+                "fate": "1",
+                "might": "2",
+                "name": "Knight of the White Tower",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Legolas Greenleaf": {
+                "fate": "3",
+                "might": "3",
+                "name": "Legolas Greenleaf",
+                "will": "2",
+                "wounds": "2"
+            },
+            "Mablung, Ranger of Ithilien": {
+                "fate": "1",
+                "might": "1",
+                "name": "Mablung, Ranger of Ithilien",
+                "will": "1",
+                "wounds": "1"
+            },
+            "Madril, Captain of Ithilien": {
+                "fate": "1",
+                "might": "3",
+                "name": "Madril, Captain of Ithilien",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Minas Tirith Engineer Captain": {
+                "fate": "1",
+                "might": "2",
+                "name": "Minas Tirith Engineer Captain",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Minas Tirith Siege Veteran": {
+                "fate": "1",
+                "might": "1",
+                "name": "Minas Tirith Siege Veteran",
+                "will": "1",
+                "wounds": "1"
+            },
+            "Peregrin Took, Guard of the Citadel": {
+                "fate": "2",
+                "might": "1",
+                "name": "Peregrin Took, Guard of the Citadel",
+                "will": "1",
+                "wounds": "1"
+            },
+            "Prince Imrahil of Dol Amroth": {
+                "fate": "3",
+                "might": "3",
+                "name": "Prince Imrahil of Dol Amroth",
+                "will": "3",
+                "wounds": "3"
+            },
+            "Samwise Gamgee": {
+                "fate": "2",
+                "might": "2",
+                "name": "Samwise Gamgee",
+                "will": "2",
+                "wounds": "2"
+            },
+            "Sm\u00e9agol": {
+                "fate": "1",
+                "might": "1",
+                "name": "Sm\u00e9agol",
+                "will": "0",
+                "wounds": "2"
+            },
+            "Warrior of Minas Tirith": {
+                "fate": "0",
+                "might": "0",
+                "name": "Warrior of Minas Tirith",
+                "will": "0",
+                "wounds": "1"
+            }
+        },
+        "name": "Minas Tirith"
+    },
+    {
+        "heroes": {
+            "Black Gate Troll Chieftain": {
+                "fate": "2",
+                "might": "3",
+                "name": "Black Gate Troll Chieftain",
+                "will": "2",
+                "wounds": "3"
+            },
+            "Black Guard Drummer": {
+                "fate": "1",
+                "might": "0",
+                "name": "Black Guard Drummer",
+                "will": "0",
+                "wounds": "1"
+            },
+            "Black N\u00famen\u00f3rean Marshal": {
+                "fate": "1",
+                "might": "2",
+                "name": "Black N\u00famen\u00f3rean Marshal",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Captain of the Black Guard": {
+                "fate": "1",
+                "might": "2",
+                "name": "Captain of the Black Guard",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Gorbag, Orc Captain": {
+                "fate": "1",
+                "might": "3",
+                "name": "Gorbag, Orc Captain",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Goroth, Captain of the Morannon": {
+                "fate": "1",
+                "might": "3",
+                "name": "Goroth, Captain of the Morannon",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Gothmog's Enforcer": {
+                "fate": "1",
+                "might": "1",
+                "name": "Gothmog's Enforcer",
+                "will": "3",
+                "wounds": "2"
+            },
+            "Gothmog, Lieutenant of Sauron": {
+                "fate": "1",
+                "might": "3",
+                "name": "Gothmog, Lieutenant of Sauron",
+                "will": "3",
+                "wounds": "3"
+            },
+            "Great Beast of Gorgoroth": {
+                "fate": "-",
+                "might": "-",
+                "name": "Great Beast of Gorgoroth",
+                "will": "-",
+                "wounds": "5"
+            },
+            "Grishn\u00e1kh, Orc Captain": {
+                "fate": "1",
+                "might": "3",
+                "name": "Grishn\u00e1kh, Orc Captain",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Guritz, Master of Reservers": {
+                "fate": "1",
+                "might": "3",
+                "name": "Guritz, Master of Reservers",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Kard\u00fbsh The Firecaller": {
+                "fate": "1",
+                "might": "1",
+                "name": "Kard\u00fbsh The Firecaller",
+                "will": "3",
+                "wounds": "2"
+            },
+            "Kham\u00fbl The Easterling": {
+                "fate": "2",
+                "might": "2",
+                "name": "Kham\u00fbl The Easterling",
+                "will": "12",
+                "wounds": "1"
+            },
+            "Morannon Orc Captain": {
+                "fate": "1",
+                "might": "2",
+                "name": "Morannon Orc Captain",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Mordor Troll Chieftain": {
+                "fate": "1",
+                "might": "2",
+                "name": "Mordor Troll Chieftain",
+                "will": "1",
+                "wounds": "3"
+            },
+            "Mordor Uruk-hai Captain": {
+                "fate": "1",
+                "might": "2",
+                "name": "Mordor Uruk-hai Captain",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Muzg\u00far, Orc Shaman": {
+                "fate": "1",
+                "might": "2",
+                "name": "Muzg\u00far, Orc Shaman",
+                "will": "4",
+                "wounds": "2"
+            },
+            "Orc Captain": {
+                "fate": "1",
+                "might": "2",
+                "name": "Orc Captain",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Orc Commander": {
+                "fate": "1",
+                "might": "2",
+                "name": "Orc Commander",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Orc Drummer": {
+                "fate": "1",
+                "might": "0",
+                "name": "Orc Drummer",
+                "will": "0",
+                "wounds": "1"
+            },
+            "Orc Shaman": {
+                "fate": "1",
+                "might": "1",
+                "name": "Orc Shaman",
+                "will": "3",
+                "wounds": "2"
+            },
+            "Orc Taskmaster": {
+                "fate": "1",
+                "might": "1",
+                "name": "Orc Taskmaster",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Razg\u00fbsh, War Leader of the North": {
+                "fate": "1",
+                "might": "3",
+                "name": "Razg\u00fbsh, War Leader of the North",
+                "will": "3",
+                "wounds": "3"
+            },
+            "Ringwraith": {
+                "fate": "0",
+                "might": "0",
+                "name": "Ringwraith",
+                "will": "7",
+                "wounds": "1"
+            },
+            "Shagrat, Captain of Cirith Ungol": {
+                "fate": "3",
+                "might": "3",
+                "name": "Shagrat, Captain of Cirith Ungol",
+                "will": "3",
+                "wounds": "3"
+            },
+            "Shelob": {
+                "fate": "0",
+                "might": "0",
+                "name": "Shelob",
+                "will": "6",
+                "wounds": "6"
+            },
+            "The Betrayer": {
+                "fate": "2",
+                "might": "2",
+                "name": "The Betrayer",
+                "will": "14",
+                "wounds": "1"
+            },
+            "The Dark Marshal": {
+                "fate": "2",
+                "might": "2",
+                "name": "The Dark Marshal",
+                "will": "14",
+                "wounds": "1"
+            },
+            "The Dwimmerlaik": {
+                "fate": "2",
+                "might": "0",
+                "name": "The Dwimmerlaik",
+                "will": "16",
+                "wounds": "1"
+            },
+            "The Knight of Umbar": {
+                "fate": "2",
+                "might": "2",
+                "name": "The Knight of Umbar",
+                "will": "12",
+                "wounds": "1"
+            },
+            "The Mouth of Sauron": {
+                "fate": "1",
+                "might": "2",
+                "name": "The Mouth of Sauron",
+                "will": "4",
+                "wounds": "2"
+            },
+            "The Shadow Lord": {
+                "fate": "2",
+                "might": "2",
+                "name": "The Shadow Lord",
+                "will": "14",
+                "wounds": "1"
+            },
+            "The Spider Queen": {
+                "fate": "0",
+                "might": "3",
+                "name": "The Spider Queen",
+                "will": "3",
+                "wounds": "3"
+            },
+            "The Tainted": {
+                "fate": "2",
+                "might": "2",
+                "name": "The Tainted",
+                "will": "14",
+                "wounds": "1"
+            },
+            "The Undying": {
+                "fate": "0",
+                "might": "2",
+                "name": "The Undying",
+                "will": "18",
+                "wounds": "1"
+            },
+            "The Witch-king of Angmar": {
+                "fate": "0",
+                "might": "0",
+                "name": "The Witch-king of Angmar",
+                "will": "10",
+                "wounds": "1"
+            },
+            "Zagd\u00fbsh, Orc Captain": {
+                "fate": "1",
+                "might": "3",
+                "name": "Zagd\u00fbsh, Orc Captain",
+                "will": "1",
+                "wounds": "2"
+            }
+        },
+        "name": "Mordor"
+    },
+    {
+        "heroes": {
+            "Ashr\u00e2k": {
+                "fate": "1",
+                "might": "1",
+                "name": "Ashr\u00e2k",
+                "will": "4",
+                "wounds": "2"
+            },
+            "Cave Drake": {
+                "fate": "1",
+                "might": "1",
+                "name": "Cave Drake",
+                "will": "3",
+                "wounds": "6"
+            },
+            "Dragon": {
+                "fate": "3",
+                "might": "3",
+                "name": "Dragon",
+                "will": "3",
+                "wounds": "7"
+            },
+            "Dr\u00fbzhag the Beastcaller": {
+                "fate": "2",
+                "might": "2",
+                "name": "Dr\u00fbzhag the Beastcaller",
+                "will": "5",
+                "wounds": "2"
+            },
+            "Durb\u00fbrz, The Goblin King of Moria": {
+                "fate": "2",
+                "might": "3",
+                "name": "Durb\u00fbrz, The Goblin King of Moria",
+                "will": "2",
+                "wounds": "2"
+            },
+            "Gr\u00f4blog": {
+                "fate": "1",
+                "might": "3",
+                "name": "Gr\u00f4blog",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Moria Blackshield Captain": {
+                "fate": "1",
+                "might": "2",
+                "name": "Moria Blackshield Captain",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Moria Blackshield Shaman": {
+                "fate": "1",
+                "might": "1",
+                "name": "Moria Blackshield Shaman",
+                "will": "3",
+                "wounds": "2"
+            },
+            "Moria Goblin Captain": {
+                "fate": "1",
+                "might": "2",
+                "name": "Moria Goblin Captain",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Moria Goblin Shaman": {
+                "fate": "1",
+                "might": "1",
+                "name": "Moria Goblin Shaman",
+                "will": "3",
+                "wounds": "2"
+            },
+            "The Balrog": {
+                "fate": "0",
+                "might": "0",
+                "name": "The Balrog",
+                "will": "10",
+                "wounds": "10"
+            },
+            "The Watcher in the Water": {
+                "fate": "1",
+                "might": "1",
+                "name": "The Watcher in the Water",
+                "will": "5",
+                "wounds": "6"
+            },
+            "Wild Warg Chieftain": {
+                "fate": "1",
+                "might": "2",
+                "name": "Wild Warg Chieftain",
+                "will": "2",
+                "wounds": "3"
+            }
+        },
+        "name": "Moria"
+    },
+    {
+        "heroes": {
+            "Captain of N\u00famenor": {
+                "fate": "1",
+                "might": "2",
+                "name": "Captain of N\u00famenor",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Elendil, High King of Gondor and Arnor": {
+                "fate": 0,
+                "might": 0,
+                "name": "Elendil, High King of Gondor and Arnor",
+                "will": 0,
+                "wounds": 0
+            },
+            "Isildur": {
+                "fate": "2",
+                "might": "3",
+                "name": "Isildur",
+                "will": "2",
+                "wounds": "3"
+            }
+        },
+        "name": "N\u00famenor"
+    },
+    {
+        "heroes": {
+            "Beorn": {
+                "fate": "3",
+                "might": "3",
+                "name": "Beorn",
+                "will": "3",
+                "wounds": "3"
+            },
+            "Gwahir": {
+                "fate": "3",
+                "might": "3",
+                "name": "Gwahir",
+                "will": "3",
+                "wounds": "3"
+            },
+            "Radagast the Brown": {
+                "fate": "3",
+                "might": "3",
+                "name": "Radagast the Brown",
+                "will": "6*",
+                "wounds": "3"
+            }
+        },
+        "name": "Radagast's Alliance"
+    },
+    {
+        "heroes": {
+            "Arwen Und\u00f3miel": {
+                "fate": "1",
+                "might": "1",
+                "name": "Arwen Und\u00f3miel",
+                "will": "4",
+                "wounds": "2"
+            },
+            "Bilbo Baggins": {
+                "fate": "3",
+                "might": "2",
+                "name": "Bilbo Baggins",
+                "will": "3",
+                "wounds": "2"
+            },
+            "C\u00edrdan": {
+                "fate": "1",
+                "might": "1",
+                "name": "C\u00edrdan",
+                "will": "4*",
+                "wounds": "2"
+            },
+            "Elrond, Master of Rivendell": {
+                "fate": "3",
+                "might": "3",
+                "name": "Elrond, Master of Rivendell",
+                "will": "3",
+                "wounds": "3"
+            },
+            "Erestor": {
+                "fate": "2",
+                "might": "2",
+                "name": "Erestor",
+                "will": "2",
+                "wounds": "2"
+            },
+            "Gil-Galad, High King of the Elves": {
+                "fate": "1",
+                "might": "3",
+                "name": "Gil-Galad, High King of the Elves",
+                "will": "3",
+                "wounds": "3"
+            },
+            "Gildor Inglorion": {
+                "fate": "1",
+                "might": "1",
+                "name": "Gildor Inglorion",
+                "will": "4",
+                "wounds": "2"
+            },
+            "Glorfindel, Lord of the West": {
+                "fate": "3",
+                "might": "3",
+                "name": "Glorfindel, Lord of the West",
+                "will": "3",
+                "wounds": "3"
+            },
+            "High Elf Captain": {
+                "fate": "1",
+                "might": "2",
+                "name": "High Elf Captain",
+                "will": "1",
+                "wounds": "2"
+            },
+            "High Elf Stormcaller": {
+                "fate": "1",
+                "might": "1",
+                "name": "High Elf Stormcaller",
+                "will": "3",
+                "wounds": "2"
+            },
+            "Lindir of Rivendell": {
+                "fate": "1",
+                "might": "1",
+                "name": "Lindir of Rivendell",
+                "will": "3",
+                "wounds": "2"
+            }
+        },
+        "name": "Rivendell"
+    },
+    {
+        "heroes": {
+            "Aldor, Rohan Archer": {
+                "fate": "1",
+                "might": "1",
+                "name": "Aldor, Rohan Archer",
+                "will": "1",
+                "wounds": "1"
+            },
+            "Aragorn - Strider": {
+                "fate": "3",
+                "might": "3*",
+                "name": "Aragorn - Strider",
+                "will": "3",
+                "wounds": "3"
+            },
+            "Captain of Rohan": {
+                "fate": "1",
+                "might": "2",
+                "name": "Captain of Rohan",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Dernhelm": {
+                "fate": "2",
+                "might": "2",
+                "name": "Dernhelm",
+                "will": "2",
+                "wounds": "2"
+            },
+            "D\u00e9orwine, Chief of the King's Knights": {
+                "fate": "1",
+                "might": "3",
+                "name": "D\u00e9orwine, Chief of the King's Knights",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Elfhelm, Captain of Rohan": {
+                "fate": "1",
+                "might": "3",
+                "name": "Elfhelm, Captain of Rohan",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Eorl the Young": {
+                "fate": "2",
+                "might": "3*",
+                "name": "Eorl the Young",
+                "will": "2",
+                "wounds": "3"
+            },
+            "Erkenbrand, Captain of Rohan": {
+                "fate": "1",
+                "might": "3",
+                "name": "Erkenbrand, Captain of Rohan",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Galadhrim Captain": {
+                "fate": "1",
+                "might": "2",
+                "name": "Galadhrim Captain",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Gamling, Captain of Rohan": {
+                "fate": "1",
+                "might": "3",
+                "name": "Gamling, Captain of Rohan",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Gandalf the White": {
+                "fate": "3",
+                "might": "3",
+                "name": "Gandalf the White",
+                "will": "6*",
+                "wounds": "3"
+            },
+            "Gh\u00e2n-Buri-Gh\u00e2n": {
+                "fate": "1",
+                "might": "3",
+                "name": "Gh\u00e2n-Buri-Gh\u00e2n",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Gimli Son of Gl\u00f3in": {
+                "fate": "2",
+                "might": "3",
+                "name": "Gimli Son of Gl\u00f3in",
+                "will": "2",
+                "wounds": "2"
+            },
+            "Grimbold of Grimslade": {
+                "fate": "1",
+                "might": "3",
+                "name": "Grimbold of Grimslade",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Haldir": {
+                "fate": "1",
+                "might": "3",
+                "name": "Haldir",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Haleth, Son of H\u00e1ma": {
+                "fate": "2",
+                "might": "1",
+                "name": "Haleth, Son of H\u00e1ma",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Helm Hammerhand": {
+                "fate": "1",
+                "might": "3",
+                "name": "Helm Hammerhand",
+                "will": "3",
+                "wounds": "3"
+            },
+            "H\u00e1ma, Captain of Rohan": {
+                "fate": "1",
+                "might": "3",
+                "name": "H\u00e1ma, Captain of Rohan",
+                "will": "1",
+                "wounds": "2"
+            },
+            "King's Huntsman": {
+                "fate": "1",
+                "might": "2",
+                "name": "King's Huntsman",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Legolas Greenleaf": {
+                "fate": "3",
+                "might": "3",
+                "name": "Legolas Greenleaf",
+                "will": "2",
+                "wounds": "2"
+            },
+            "Meriadoc Brandybuck, Knight of the Mark": {
+                "fate": "2",
+                "might": "1",
+                "name": "Meriadoc Brandybuck, Knight of the Mark",
+                "will": "1",
+                "wounds": "1"
+            },
+            "Th\u00e9oden, King of Rohan": {
+                "fate": "1",
+                "might": "3",
+                "name": "Th\u00e9oden, King of Rohan",
+                "will": "3",
+                "wounds": "2"
+            },
+            "Th\u00e9odred, Heir of Rohan": {
+                "fate": "1",
+                "might": "3",
+                "name": "Th\u00e9odred, Heir of Rohan",
+                "will": "3",
+                "wounds": "2"
+            },
+            "\u00c9omer, Marshal of the Riddermark": {
+                "fate": "3",
+                "might": "3",
+                "name": "\u00c9omer, Marshal of the Riddermark",
+                "will": "3",
+                "wounds": "3"
+            },
+            "\u00c9owyn, Shield Maiden of Rohan": {
+                "fate": "2",
+                "might": "2",
+                "name": "\u00c9owyn, Shield Maiden of Rohan",
+                "will": "2",
+                "wounds": "2"
+            }
+        },
+        "name": "Rohan"
+    },
+    {
+        "heroes": {
+            "Bill Ferny": {
+                "fate": "1",
+                "might": "1",
+                "name": "Bill Ferny",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Harry Goatleaf": {
+                "fate": "1",
+                "might": "1",
+                "name": "Harry Goatleaf",
+                "will": "3",
+                "wounds": "2"
+            },
+            "Lotho Sackville-Baggins": {
+                "fate": "1",
+                "might": "1",
+                "name": "Lotho Sackville-Baggins",
+                "will": "4",
+                "wounds": "1"
+            },
+            "Rowan Thistlewood, Ruffian Enforcer": {
+                "fate": "1",
+                "might": "1",
+                "name": "Rowan Thistlewood, Ruffian Enforcer",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Sharkey": {
+                "fate": "1",
+                "might": "1",
+                "name": "Sharkey",
+                "will": "4",
+                "wounds": "2"
+            },
+            "Sid Briarthorn, Ruffian Chief": {
+                "fate": "1",
+                "might": "2",
+                "name": "Sid Briarthorn, Ruffian Chief",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Ted Sandyman": {
+                "fate": 0,
+                "might": 0,
+                "name": "Ted Sandyman",
+                "will": 0,
+                "wounds": 0
+            },
+            "Worm": {
+                "fate": "0",
+                "might": "0",
+                "name": "Worm",
+                "will": "0",
+                "wounds": "1"
+            }
+        },
+        "name": "Sharkey's Rogues"
+    },
+    {
+        "heroes": {
+            "Alfrid the Councilor": {
+                "fate": "1",
+                "might": "0",
+                "name": "Alfrid the Councilor",
+                "will": "3",
+                "wounds": "1"
+            },
+            "Bard the Bowman": {
+                "fate": "3",
+                "might": "3",
+                "name": "Bard the Bowman",
+                "will": "3",
+                "wounds": "3"
+            },
+            "Bilbo Baggins, Master Burglar": {
+                "fate": "3",
+                "might": "3",
+                "name": "Bilbo Baggins, Master Burglar",
+                "will": "3",
+                "wounds": "2"
+            },
+            "Gandalf the Grey": {
+                "fate": "3",
+                "might": "3",
+                "name": "Gandalf the Grey",
+                "will": "6*",
+                "wounds": "3"
+            },
+            "Hilda-Bianca": {
+                "fate": "1",
+                "might": "1",
+                "name": "Hilda-Bianca",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Lake-town Militia Captain": {
+                "fate": "1",
+                "might": "2",
+                "name": "Lake-town Militia Captain",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Percy": {
+                "fate": 0,
+                "might": 0,
+                "name": "Percy",
+                "will": 0,
+                "wounds": 0
+            }
+        },
+        "name": "Survivors of Lake-town"
+    },
+    {
+        "heroes": {
+            "Aragorn - Strider": {
+                "fate": "3",
+                "might": "3*",
+                "name": "Aragorn - Strider",
+                "will": "3",
+                "wounds": "3"
+            },
+            "Gimli Son of Gl\u00f3in": {
+                "fate": "2",
+                "might": "3",
+                "name": "Gimli Son of Gl\u00f3in",
+                "will": "2",
+                "wounds": "2"
+            },
+            "Herald of the Dead": {
+                "fate": "2",
+                "might": "0",
+                "name": "Herald of the Dead",
+                "will": "3",
+                "wounds": "2"
+            },
+            "Legolas Greenleaf": {
+                "fate": "3",
+                "might": "3",
+                "name": "Legolas Greenleaf",
+                "will": "2",
+                "wounds": "2"
+            },
+            "The King of the Dead": {
+                "fate": "3",
+                "might": "1",
+                "name": "The King of the Dead",
+                "will": "6",
+                "wounds": "2"
+            }
+        },
+        "name": "The Dead of Dunharrow"
+    },
+    {
+        "heroes": {
+            "Amd\u00fbr, Lord of Blades": {
+                "fate": "1",
+                "might": "3",
+                "name": "Amd\u00fbr, Lord of Blades",
+                "will": "3",
+                "wounds": "3"
+            },
+            "Br\u00f3rg\u00eer, the Conjurer": {
+                "fate": "2",
+                "might": "2",
+                "name": "Br\u00f3rg\u00eer, the Conjurer",
+                "will": "5",
+                "wounds": "2"
+            },
+            "Easterling Captain": {
+                "fate": "1",
+                "might": "2",
+                "name": "Easterling Captain",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Easterling Dragon Knight": {
+                "fate": "0",
+                "might": "2",
+                "name": "Easterling Dragon Knight",
+                "will": "0",
+                "wounds": "2"
+            },
+            "Easterling War Priest": {
+                "fate": "1",
+                "might": "1",
+                "name": "Easterling War Priest",
+                "will": "3",
+                "wounds": "2"
+            },
+            "Kham\u00fbl The Easterling": {
+                "fate": "2",
+                "might": "2",
+                "name": "Kham\u00fbl The Easterling",
+                "will": "12",
+                "wounds": "1"
+            },
+            "Rutabi, General of the Dragon Legion": {
+                "fate": "2",
+                "might": "3",
+                "name": "Rutabi, General of the Dragon Legion",
+                "will": "2",
+                "wounds": "3"
+            },
+            "The Dragon Emperor of Rh\u00fbn": {
+                "fate": "3",
+                "might": "3",
+                "name": "The Dragon Emperor of Rh\u00fbn",
+                "will": "3",
+                "wounds": "3"
+            }
+        },
+        "name": "The Easterlings"
+    },
+    {
+        "heroes": {
+            "Aragorn - Strider": {
+                "fate": "3",
+                "might": "3*",
+                "name": "Aragorn - Strider",
+                "will": "3",
+                "wounds": "3"
+            },
+            "Arwen Und\u00f3miel": {
+                "fate": "1",
+                "might": "1",
+                "name": "Arwen Und\u00f3miel",
+                "will": "4",
+                "wounds": "2"
+            },
+            "Bill the Pony": {
+                "fate": "1",
+                "might": "0",
+                "name": "Bill the Pony",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Boromir of Gondor": {
+                "fate": "0",
+                "might": "6",
+                "name": "Boromir of Gondor",
+                "will": "1",
+                "wounds": "3"
+            },
+            "Frodo Baggins": {
+                "fate": "3",
+                "might": "2",
+                "name": "Frodo Baggins",
+                "will": "3",
+                "wounds": "2"
+            },
+            "Gandalf the Grey": {
+                "fate": "3",
+                "might": "3",
+                "name": "Gandalf the Grey",
+                "will": "6*",
+                "wounds": "3"
+            },
+            "Gimli Son of Gl\u00f3in": {
+                "fate": "2",
+                "might": "3",
+                "name": "Gimli Son of Gl\u00f3in",
+                "will": "2",
+                "wounds": "2"
+            },
+            "Legolas Greenleaf": {
+                "fate": "3",
+                "might": "3",
+                "name": "Legolas Greenleaf",
+                "will": "2",
+                "wounds": "2"
+            },
+            "Merry": {
+                "fate": "1",
+                "might": "0",
+                "name": "Merry",
+                "will": "0",
+                "wounds": "1"
+            },
+            "Pippin": {
+                "fate": "1",
+                "might": "0",
+                "name": "Pippin",
+                "will": "0",
+                "wounds": "1"
+            },
+            "Samwise Gamgee": {
+                "fate": "2",
+                "might": "2",
+                "name": "Samwise Gamgee",
+                "will": "2",
+                "wounds": "2"
+            },
+            "Sm\u00e9agol": {
+                "fate": "1",
+                "might": "1",
+                "name": "Sm\u00e9agol",
+                "will": "0",
+                "wounds": "2"
+            }
+        },
+        "name": "The Fellowship"
+    },
+    {
+        "heroes": {
+            "Angbor the Fearless": {
+                "fate": "1",
+                "might": "2",
+                "name": "Angbor the Fearless",
+                "will": "3",
+                "wounds": "2"
+            },
+            "Captain of Dol Amroth": {
+                "fate": "1",
+                "might": "2",
+                "name": "Captain of Dol Amroth",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Duinhir": {
+                "fate": "1",
+                "might": "2",
+                "name": "Duinhir",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Forlong the Fat": {
+                "fate": "1",
+                "might": "3",
+                "name": "Forlong the Fat",
+                "will": "1",
+                "wounds": "3"
+            },
+            "Prince Imrahil of Dol Amroth": {
+                "fate": "3",
+                "might": "3",
+                "name": "Prince Imrahil of Dol Amroth",
+                "will": "3",
+                "wounds": "3"
+            }
+        },
+        "name": "The Fiefdoms"
+    },
+    {
+        "heroes": {
+            "D\u00e1in Ironfoot, Lord of the Iron Hills": {
+                "fate": "3",
+                "might": "3",
+                "name": "D\u00e1in Ironfoot, Lord of the Iron Hills",
+                "will": "3",
+                "wounds": "3"
+            },
+            "Iron Hills Captain": {
+                "fate": "1",
+                "might": "2",
+                "name": "Iron Hills Captain",
+                "will": "1",
+                "wounds": "2"
+            }
+        },
+        "name": "The Iron Hills"
+    },
+    {
+        "heroes": {
+            "Durin, King of Khazard-D\u00fbm": {
+                "fate": "1",
+                "might": "3",
+                "name": "Durin, King of Khazard-D\u00fbm",
+                "will": "3",
+                "wounds": "3"
+            },
+            "Dwarf Captain": {
+                "fate": "1",
+                "might": "2",
+                "name": "Dwarf Captain",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Dwarf King": {
+                "fate": "1",
+                "might": "2",
+                "name": "Dwarf King",
+                "will": "2",
+                "wounds": "2"
+            },
+            "Fl\u00f3i Stonehand": {
+                "fate": "1",
+                "might": "1",
+                "name": "Fl\u00f3i Stonehand",
+                "will": "3",
+                "wounds": "2"
+            },
+            "King's Champion": {
+                "fate": "1",
+                "might": "2",
+                "name": "King's Champion",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Mardin": {
+                "fate": "1",
+                "might": "3",
+                "name": "Mardin",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Shieldbearer": {
+                "fate": "0",
+                "might": "1",
+                "name": "Shieldbearer",
+                "will": "0",
+                "wounds": "2"
+            }
+        },
+        "name": "The Kingdom of Khazad-D\u00fbm"
+    },
+    {
+        "heroes": {
+            "Balin, King of Moria": {
+                "fate": "1",
+                "might": "3",
+                "name": "Balin, King of Moria",
+                "will": "3",
+                "wounds": "2"
+            },
+            "Dwarf Captain": {
+                "fate": "1",
+                "might": "2",
+                "name": "Dwarf Captain",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Dwarf King": {
+                "fate": "1",
+                "might": "2",
+                "name": "Dwarf King",
+                "will": "2",
+                "wounds": "2"
+            },
+            "Fl\u00f3i Stonehand": {
+                "fate": "1",
+                "might": "1",
+                "name": "Fl\u00f3i Stonehand",
+                "will": "3",
+                "wounds": "2"
+            },
+            "Gimli Son of Gl\u00f3in": {
+                "fate": "2",
+                "might": "3",
+                "name": "Gimli Son of Gl\u00f3in",
+                "will": "2",
+                "wounds": "2"
+            },
+            "King's Champion": {
+                "fate": "1",
+                "might": "2",
+                "name": "King's Champion",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Ori the Dwarf, Champion of Erebor": {
+                "fate": "1",
+                "might": "1",
+                "name": "Ori the Dwarf, Champion of Erebor",
+                "will": "3",
+                "wounds": "2"
+            },
+            "Shieldbearer": {
+                "fate": "0",
+                "might": "1",
+                "name": "Shieldbearer",
+                "will": "0",
+                "wounds": "2"
+            },
+            "\u00d3in the Dwarf, Champion of Erebor": {
+                "fate": "1",
+                "might": "1",
+                "name": "\u00d3in the Dwarf, Champion of Erebor",
+                "will": "4",
+                "wounds": "2"
+            }
+        },
+        "name": "The Kingdom of Moria"
+    },
+    {
+        "heroes": {
+            "Gwahir": {
+                "fate": "3",
+                "might": "3",
+                "name": "Gwahir",
+                "will": "3",
+                "wounds": "3"
+            }
+        },
+        "name": "The Misty Mountains"
+    },
+    {
+        "heroes": {
+            "Aragorn - Strider": {
+                "fate": "3",
+                "might": "3*",
+                "name": "Aragorn - Strider",
+                "will": "3",
+                "wounds": "3"
+            },
+            "Arathorn": {
+                "fate": "1",
+                "might": "3",
+                "name": "Arathorn",
+                "will": "2",
+                "wounds": "2"
+            },
+            "D\u00fanedain": {
+                "fate": "1",
+                "might": "1",
+                "name": "D\u00fanedain",
+                "will": "1",
+                "wounds": "1"
+            },
+            "Gimli Son of Gl\u00f3in": {
+                "fate": "2",
+                "might": "3",
+                "name": "Gimli Son of Gl\u00f3in",
+                "will": "2",
+                "wounds": "2"
+            },
+            "Halbarad": {
+                "fate": "1",
+                "might": "3",
+                "name": "Halbarad",
+                "will": "2",
+                "wounds": "2"
+            },
+            "Legolas Greenleaf": {
+                "fate": "3",
+                "might": "3",
+                "name": "Legolas Greenleaf",
+                "will": "2",
+                "wounds": "2"
+            },
+            "Ranger of the North": {
+                "fate": "1",
+                "might": "1",
+                "name": "Ranger of the North",
+                "will": "1",
+                "wounds": "1"
+            }
+        },
+        "name": "The Rangers"
+    },
+    {
+        "heroes": {
+            "Haradrim Chieftain": {
+                "fate": "1",
+                "might": "2",
+                "name": "Haradrim Chieftain",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Haradrim King": {
+                "fate": "1",
+                "might": "2",
+                "name": "Haradrim King",
+                "will": "2",
+                "wounds": "2"
+            },
+            "Haradrim Taskmaster": {
+                "fate": 0,
+                "might": 0,
+                "name": "Haradrim Taskmaster",
+                "will": 0,
+                "wounds": 0
+            },
+            "H\u00e2sharin": {
+                "fate": "3",
+                "might": "1",
+                "name": "H\u00e2sharin",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Mah\u00fbd King": {
+                "fate": "1",
+                "might": "2",
+                "name": "Mah\u00fbd King",
+                "will": "2",
+                "wounds": "2"
+            },
+            "Mah\u00fbd Tribesmaster": {
+                "fate": "1",
+                "might": "2",
+                "name": "Mah\u00fbd Tribesmaster",
+                "will": "1",
+                "wounds": "2"
+            },
+            "R\u00e2za, Fang of the Serpent": {
+                "fate": "1",
+                "might": "3",
+                "name": "R\u00e2za, Fang of the Serpent",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Sulad\u00e2n the Serpent Lord": {
+                "fate": "1",
+                "might": "3",
+                "name": "Sulad\u00e2n the Serpent Lord",
+                "will": "3",
+                "wounds": "3"
+            },
+            "The Betrayer": {
+                "fate": "2",
+                "might": "2",
+                "name": "The Betrayer",
+                "will": "14",
+                "wounds": "1"
+            },
+            "The Golden King of Abrakh\u00e2n": {
+                "fate": "2",
+                "might": "2",
+                "name": "The Golden King of Abrakh\u00e2n",
+                "will": "6",
+                "wounds": "4"
+            },
+            "The M\u00fbmak War Leader": {
+                "fate": "2",
+                "might": "3",
+                "name": "The M\u00fbmak War Leader",
+                "will": "2",
+                "wounds": "3"
+            }
+        },
+        "name": "The Serpent Horde"
+    },
+    {
+        "heroes": {
+            "Baldo Tulpenny": {
+                "fate": "2",
+                "might": "1",
+                "name": "Baldo Tulpenny",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Bandobras Took": {
+                "fate": "1",
+                "might": "2",
+                "name": "Bandobras Took",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Bilbo Baggins": {
+                "fate": "3",
+                "might": "2",
+                "name": "Bilbo Baggins",
+                "will": "3",
+                "wounds": "2"
+            },
+            "D\u00fanedain": {
+                "fate": "1",
+                "might": "1",
+                "name": "D\u00fanedain",
+                "will": "1",
+                "wounds": "1"
+            },
+            "Farmer Maggot": {
+                "fate": "2",
+                "might": "1",
+                "name": "Farmer Maggot",
+                "will": "2",
+                "wounds": "2"
+            },
+            "Farmer Tolman Cotton": {
+                "fate": "1",
+                "might": "2",
+                "name": "Farmer Tolman Cotton",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Folco Boffin": {
+                "fate": "1",
+                "might": "0",
+                "name": "Folco Boffin",
+                "will": "3",
+                "wounds": "1"
+            },
+            "Fredegar Bolger": {
+                "fate": "1",
+                "might": "0",
+                "name": "Fredegar Bolger",
+                "will": "0",
+                "wounds": "1"
+            },
+            "Frodo of the Nine Fingers": {
+                "fate": "1",
+                "might": "1",
+                "name": "Frodo of the Nine Fingers",
+                "will": "3",
+                "wounds": "2"
+            },
+            "Gandalf the Grey": {
+                "fate": "3",
+                "might": "3",
+                "name": "Gandalf the Grey",
+                "will": "6*",
+                "wounds": "3"
+            },
+            "Hamfast 'Gaffer' Gamgee": {
+                "fate": "1",
+                "might": "1",
+                "name": "Hamfast 'Gaffer' Gamgee",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Holfoot Bracegirdle, Shirriff-Leader": {
+                "fate": "1",
+                "might": "1",
+                "name": "Holfoot Bracegirdle, Shirriff-Leader",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Lobelia Sackville-Baggins": {
+                "fate": "1",
+                "might": "0",
+                "name": "Lobelia Sackville-Baggins",
+                "will": "1",
+                "wounds": "1"
+            },
+            "Lotho Sackville-Baggins": {
+                "fate": "1",
+                "might": "1",
+                "name": "Lotho Sackville-Baggins",
+                "will": "4",
+                "wounds": "1"
+            },
+            "Meriadoc, Captain of the Shire": {
+                "fate": "2",
+                "might": "2",
+                "name": "Meriadoc, Captain of the Shire",
+                "will": "2",
+                "wounds": "2"
+            },
+            "Paladin Took": {
+                "fate": "2",
+                "might": "1",
+                "name": "Paladin Took",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Peregrin, Captain of the Shire": {
+                "fate": "2",
+                "might": "2",
+                "name": "Peregrin, Captain of the Shire",
+                "will": "2",
+                "wounds": "2"
+            },
+            "Robin Smallburrow, Hobbit Shirriff": {
+                "fate": "1",
+                "might": "1",
+                "name": "Robin Smallburrow, Hobbit Shirriff",
+                "will": "1",
+                "wounds": "1"
+            },
+            "Rosie Cotton": {
+                "fate": "2",
+                "might": "0",
+                "name": "Rosie Cotton",
+                "will": "1",
+                "wounds": "1"
+            },
+            "Samwise the Brave": {
+                "fate": "3",
+                "might": "2",
+                "name": "Samwise the Brave",
+                "will": "2",
+                "wounds": "2"
+            },
+            "Will Whitfoot, Mayor of Hobbiton": {
+                "fate": "1",
+                "might": "1",
+                "name": "Will Whitfoot, Mayor of Hobbiton",
+                "will": "3",
+                "wounds": "1"
+            }
+        },
+        "name": "The Shire"
+    },
+    {
+        "heroes": {
+            "Bert the Troll": {
+                "fate": "1",
+                "might": "2",
+                "name": "Bert the Troll",
+                "will": "1",
+                "wounds": "3"
+            },
+            "Bill the Troll": {
+                "fate": "1",
+                "might": "3",
+                "name": "Bill the Troll",
+                "will": "1",
+                "wounds": "3"
+            },
+            "Tom the Troll": {
+                "fate": "1",
+                "might": "1",
+                "name": "Tom the Troll",
+                "will": "3",
+                "wounds": "3"
+            }
+        },
+        "name": "The Trolls"
+    },
+    {
+        "heroes": {
+            "Celeborn": {
+                "fate": "3",
+                "might": "3",
+                "name": "Celeborn",
+                "will": "3",
+                "wounds": "3"
+            },
+            "Elrond, Master of Rivendell": {
+                "fate": "3",
+                "might": "3",
+                "name": "Elrond, Master of Rivendell",
+                "will": "3",
+                "wounds": "3"
+            },
+            "Galadriel, Lady of Light": {
+                "fate": "3",
+                "might": "3",
+                "name": "Galadriel, Lady of Light",
+                "will": "6*",
+                "wounds": "3"
+            },
+            "Gandalf the Grey": {
+                "fate": "3",
+                "might": "3",
+                "name": "Gandalf the Grey",
+                "will": "6*",
+                "wounds": "3"
+            },
+            "Glorfindel, Lord of the West": {
+                "fate": "3",
+                "might": "3",
+                "name": "Glorfindel, Lord of the West",
+                "will": "3",
+                "wounds": "3"
+            },
+            "Radagast the Brown": {
+                "fate": "3",
+                "might": "3",
+                "name": "Radagast the Brown",
+                "will": "6*",
+                "wounds": "3"
+            },
+            "Saruman": {
+                "fate": "3",
+                "might": "3",
+                "name": "Saruman",
+                "will": "6*",
+                "wounds": "3"
+            }
+        },
+        "name": "The White Council"
+    },
+    {
+        "heroes": {
+            "Balin the Dwarf": {
+                "fate": "2",
+                "might": "1",
+                "name": "Balin the Dwarf",
+                "will": "3",
+                "wounds": "2"
+            },
+            "Bifur the Dwarf": {
+                "fate": "1",
+                "might": "2",
+                "name": "Bifur the Dwarf",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Bilbo Baggins": {
+                "fate": "3",
+                "might": "2",
+                "name": "Bilbo Baggins",
+                "will": "3",
+                "wounds": "2"
+            },
+            "Bofur the Dwarf": {
+                "fate": "1",
+                "might": "2",
+                "name": "Bofur the Dwarf",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Bombur the Dwarf": {
+                "fate": "1",
+                "might": "2",
+                "name": "Bombur the Dwarf",
+                "will": "1",
+                "wounds": "3"
+            },
+            "Dori the Dwarf": {
+                "fate": "1",
+                "might": "2",
+                "name": "Dori the Dwarf",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Dwalin the Dwarf": {
+                "fate": "2",
+                "might": "2",
+                "name": "Dwalin the Dwarf",
+                "will": "2",
+                "wounds": "2"
+            },
+            "F\u00edli the Dwarf": {
+                "fate": "1",
+                "might": "2",
+                "name": "F\u00edli the Dwarf",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Gandalf the Grey": {
+                "fate": "3",
+                "might": "3",
+                "name": "Gandalf the Grey",
+                "will": "6*",
+                "wounds": "3"
+            },
+            "Gl\u00f3in the Dwarf": {
+                "fate": "1",
+                "might": "2",
+                "name": "Gl\u00f3in the Dwarf",
+                "will": "1",
+                "wounds": "2"
+            },
+            "K\u00edli the Dwarf": {
+                "fate": "1",
+                "might": "2",
+                "name": "K\u00edli the Dwarf",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Nori the Dwarf": {
+                "fate": "1",
+                "might": "2",
+                "name": "Nori the Dwarf",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Ori the Dwarf": {
+                "fate": "1",
+                "might": "1",
+                "name": "Ori the Dwarf",
+                "will": "3",
+                "wounds": "2"
+            },
+            "Thorin Oakenshield": {
+                "fate": "3",
+                "might": "3",
+                "name": "Thorin Oakenshield",
+                "will": "3",
+                "wounds": "3"
+            },
+            "\u00d3in the Dwarf": {
+                "fate": "1",
+                "might": "1",
+                "name": "\u00d3in the Dwarf",
+                "will": "4",
+                "wounds": "2"
+            }
+        },
+        "name": "Thorin's Company"
+    },
+    {
+        "heroes": {
+            "Khandish Chieftain": {
+                "fate": "1",
+                "might": "2",
+                "name": "Khandish Chieftain",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Khandish King": {
+                "fate": "1",
+                "might": "2",
+                "name": "Khandish King",
+                "will": "2",
+                "wounds": "2"
+            }
+        },
+        "name": "Variags of Khand"
+    },
+    {
+        "heroes": {
+            "Barliman Butterbur": {
+                "fate": "2",
+                "might": "1",
+                "name": "Barliman Butterbur",
+                "will": "3",
+                "wounds": "2"
+            },
+            "Bill the Pony": {
+                "fate": "1",
+                "might": "0",
+                "name": "Bill the Pony",
+                "will": "1",
+                "wounds": "2"
+            },
+            "Goldberry": {
+                "fate": "?",
+                "might": "?",
+                "name": "Goldberry",
+                "will": "10",
+                "wounds": "?"
+            },
+            "Harry Goatleaf": {
+                "fate": "1",
+                "might": "1",
+                "name": "Harry Goatleaf",
+                "will": "3",
+                "wounds": "2"
+            },
+            "Thr\u00e1in the Broken": {
+                "fate": "0",
+                "might": "0",
+                "name": "Thr\u00e1in the Broken",
+                "will": "0",
+                "wounds": "2"
+            },
+            "Tom Bombadil": {
+                "fate": "?",
+                "might": "?",
+                "name": "Tom Bombadil",
+                "will": "15",
+                "wounds": "?"
+            }
+        },
+        "name": "Wanderers in the Wild"
+    },
+    {
+        "heroes": {
+            "Gh\u00e2n-Buri-Gh\u00e2n": {
+                "fate": "1",
+                "might": "3",
+                "name": "Gh\u00e2n-Buri-Gh\u00e2n",
+                "will": "1",
+                "wounds": "2"
+            }
+        },
+        "name": "Wildmen of Dr\u00faadan"
+    }
+]
